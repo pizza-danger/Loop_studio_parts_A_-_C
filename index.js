@@ -3,13 +3,15 @@
 let protein = ['chicken', 'pork', 'tofu', 'beef', 'fish', 'beans'];
 let grain = ['rice', 'pasta', 'corn', 'potato', 'quinoa', 'crackers'];
 let veggie = ['peas', 'green beans', 'kale','edamame', 'broccoli', 'asparagus'];
-let beverage = ['juice', 'milk', 'water', 'soy milk', 'soda', 'tea'];
+let bevy = ['juice', 'milk', 'water', 'soy milk', 'soda', 'tea'];
 let dessert = ['apple', 'banana', 'more kale','ice cream', 'chocolate', 'kiwi'];
 
+//let astronauts = ['Tom', 'Sally', 'Neil', 'Elon', 'Christy', 'Juan']
+
+
 //Part A #2: Construct a for loop that assembles a meal for each of 6 astronauts.
-for (let i = 0; i < [].length; i++){
-     console.log(i);
- }
+
+
 
 //Part C #5: Using a while loop, ask the user to select the number of meals to assemble.  Validate the input to make sure it is an integer from 1 - 6.
 
